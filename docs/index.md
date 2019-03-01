@@ -487,7 +487,7 @@ Unknown type ``.
         },
         "discoverable": {
           "type": "boolean",
-          "description": "Identifies endpoint as accessible by its name.",
+          "description": "Identi fies endpoint as accessible by its name.",
           "default": "false"
         },
         "protocol": {
